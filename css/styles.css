@@ -11447,12 +11447,15 @@ html {
 	font-weight: 300;
 }
 .masthead .masthead-avatar {
-  width: 10rem;
- position: relative;
+	width: 10rem;
+	  position: relative;
   z-index: 2;
   display: inline-block;
-	margin: auto;
-	top: 0.40em;
+	bottom:50%;
+ 
+	
+
+	
 
 	
 }
