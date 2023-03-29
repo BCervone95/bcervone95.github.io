@@ -83,12 +83,7 @@ window.addEventListener('DOMContentLoaded', event => {
     rotateZ: [45, 15],
     duration: 1200,
     offset: '-=1000'
-//  }).add({
-//    targets: '.ml8',
-//    opacity: 0,
-//    duration: 1000,
-//    easing: "easeOutExpo",
-//    delay: 1400
+
 	
 	});
 
