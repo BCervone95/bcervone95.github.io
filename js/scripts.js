@@ -83,16 +83,14 @@ window.addEventListener('DOMContentLoaded', event => {
     rotateZ: [45, 15],
     duration: 1200,
     offset: '-=1000'
-
-	
 	});
 
 anime({
-  targets: '.ml8 .circle-dark-dashed .masthead-avatar',
+  targets: '.ml8 .circle-dark-dashed',
   rotateZ: 360,
   duration: 8000,
   easing: "linear",
-  //loop: true
+//  loop: true
 });
 
 });

@@ -11528,16 +11528,19 @@ bottom:30%;
   font-size: 4.5em;
   width: 3em;
   height: 3em;
+  position:relative;
 }
 
 .ml8 .letters-container {
   position: absolute;
-  left: 0;
-  right: 0;
   margin: auto;
+  left: 0;
   top: 0;
-  bottom: 0;
+  right: 0;
+  bottom:0;
   height: 1em;
+  z-index: 2;
+
 }
 
 .ml8 .letters {
@@ -11557,9 +11560,9 @@ bottom:30%;
 
 .ml8 .circle {
   position: absolute;
+  margin: auto;
   left: 0;
   right: 0;
-  margin: auto;
   top: 0;
   bottom: 0;
 }
@@ -11576,6 +11579,10 @@ bottom:30%;
   height: 2.2em;
   background-color: #9ACFD7;
   border-radius: 3em;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
   z-index: 1;
 }
 
