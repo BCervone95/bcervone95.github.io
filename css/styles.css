@@ -11447,12 +11447,11 @@ html {
 	font-weight: 300;
 }
 .masthead .masthead-avatar {
-	width: 10rem;
+	width: 7rem;
 	  position: relative;
   z-index: 2;
   display: inline-block;
-	bottom:55%;
- 
+bottom:30%; 
 	
 
 	
@@ -11524,10 +11523,9 @@ html {
 }
 
 
-h1.ml8 {
+.ml8 {
   font-weight: 900;
   font-size: 4.5em;
-  color: #fff;
   width: 3em;
   height: 3em;
 }
